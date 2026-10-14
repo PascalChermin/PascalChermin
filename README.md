@@ -32,6 +32,7 @@
 <picture><img alt="Moq" src="https://img.shields.io/badge/Moq-F4BE00?logo=moq&labelColor=fff"></picture>
 <picture><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&labelColor=fff"></picture>
 <picture><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx"></picture>
+<picture><img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-000?logo=nextdotjs"></picture>
 <picture><img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-5FA04E?logo=nodedotjs&labelColor=fff"></picture>
 <picture><img alt="Notepad++" src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&labelColor=000"></picture>
 <picture><img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion"></picture>
